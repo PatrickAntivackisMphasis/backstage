@@ -1,5 +1,14 @@
 # @backstage/backend-app-api
 
+## 0.2.1-next.1
+
+### Patch Changes
+
+- af6bb42c68: Updated `ServiceRegistry` to not initialize factories more than once.
+- Updated dependencies
+  - @backstage/backend-common@0.15.1-next.2
+  - @backstage/plugin-permission-node@0.6.5-next.2
+
 ## 0.2.1-next.0
 
 ### Patch Changes
